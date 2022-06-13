@@ -1,24 +1,6 @@
-# test
+# iComra.dev
 
-## Project setup
-```
-npm install
-```
+## Jesse, we need to cook jesse!
+      
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+>This is just a small project I plan on improving overtime as I learn  more about web development.
